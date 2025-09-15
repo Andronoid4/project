@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages]([https://andronoid4.github.io/project/src/index.html])
+- [Публичная страница на GitHub Pages](https://andronoid4.github.io/project/src/index.html)
